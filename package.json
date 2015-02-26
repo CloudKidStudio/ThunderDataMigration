@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "lodash": "^3.3.1",
+    "mongoose": "^3.8.24",
+    "mysql": "^2.5.5",
+    "sql": "^0.46.0"
+  }
+}
